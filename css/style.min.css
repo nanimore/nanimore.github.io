@@ -455,7 +455,7 @@ body {
     border-top-width: 2px;
     border-top-style: solid;
     border-radius: 3px;
-    background-color: hsla(0, 0%, 100%, .7);
+    background-color: rgb(255, 255, 255);
     -webkit-box-shadow: 0 14px 38px rgba(0, 0, 0, .08), 0 3px 8px rgba(0, 0, 0, .06);
     box-shadow: 0 14px 38px rgba(0, 0, 0, .08), 0 3px 8px rgba(0, 0, 0, .06);
     -webkit-transition: all .3s ease 0s, -webkit-transform .6s cubic-bezier(.6, .2, .1, 1) 0s;
